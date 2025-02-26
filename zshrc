@@ -102,7 +102,7 @@ plugins=(
   # other plugins...
   zsh-autosuggestions
   eza
-  asdf
+  # asdf
   web-search
   # gradle
   wd

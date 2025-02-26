@@ -1,2 +1,5 @@
 gitconfig.local
 vim/plugged/*
+
+# all .local files
+*.local

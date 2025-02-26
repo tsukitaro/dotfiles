@@ -133,6 +133,6 @@ Plug 'vim-denops/denops-shared-server.vim'
 
 call plug#end()
 
-source ~/.vim/rc/dpp.vim
+"source ~/.vim/rc/dpp.vim
 
 colorscheme sorbet 
